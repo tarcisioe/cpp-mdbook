@@ -1,0 +1,5 @@
+[book]
+authors = ["Tarcisio Eduardo Moreira Crocomo"]
+multilingual = false
+src = "src"
+title = "Curso de C++ 2019.1"
