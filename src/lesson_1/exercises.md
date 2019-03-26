@@ -30,7 +30,7 @@ Exercícios
 
     int main()
     {
-        fib_up_to(100);
+        fib_up_to(10);
         fib_less_than(1024);
     }
     ```
@@ -59,7 +59,7 @@ Exercícios
     {
         using namespace std::string_literals;
 
-        std::cout << "arara is " << check_palindrome("arara");
-        std::cout << "banana is " << check_palindrome("banana");
+        std::cout << "arara is "s << check_palindrome("arara"s);
+        std::cout << "banana is "s << check_palindrome("banana"s);
     }
     ```
