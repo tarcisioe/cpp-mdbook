@@ -33,6 +33,11 @@ linguagens, como C ou Java. Dentro dos parênteses, temos as seguintes partes:
 3. **Passo**: Este código executará ao final do corpo do laço, todas as
    vezes que o corpo também executar.
 
+> **Nota**: Utilizamos `0u` nesse for porque `grades.size()` retorna
+  `std::size_t`, que é um tipo `unsigned`. Em geral, evitaremos aritmética
+  com tipos `unsigned`, mas abriremos uma exceção quando formos obrigados a
+  utilizar `std::size_t`.
+
 Qualquer uma dessas partes pode ser vazia. Se a condição for vazia, o
 laço roda infinitamente. Com a inicialização e o passo vazio, podemos escrever
 um laço `while` na forma de `for`, assim como o inverso é possível.
