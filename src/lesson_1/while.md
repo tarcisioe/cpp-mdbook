@@ -1,5 +1,5 @@
 O laço `while`
---------------
+==============
 
 É muito comum, ao programar, ser necessário repetir alguma operação diversas
 vezes, até alcançar alguma condição. Para isso utilizaremos _laços_. Veremos 3
