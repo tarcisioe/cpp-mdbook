@@ -10,4 +10,12 @@
     - [O laço `for`](./lesson_1/for.md)
     - [Exercícios](./lesson_1/exercises.md)
 
+- [Aula 2 - `std::vector` e Funções](./lesson_2/intro.md)
+    - [O que é um `std::vector`?](./lesson_2/what.md)
+    - [Acessando e alterando elementos](./lesson_2/access.md)
+    - [Parâmetros de função: referências](./lesson_2/refs.md)
+    - [Parâmetros de função: `const`](./lesson_2/const.md)
+    - [Exercícios](./lesson_2/exercises.md)
+    - [Apêndice 1: Inicialização de `vector` à moda antiga](./lesson_2/appendix1-old_style.md)
+
 [Licença do código](./mit_license.md)
