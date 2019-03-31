@@ -78,14 +78,14 @@ Da mesma forma que é possível acessar um elemento no vetor com o operador `[]`
 é possível substituir o elemento naquele ponto:
 
 ```cpp
-{{#include changing.cpp:10:16}}
+{{#include changing.cpp:10:14}}
 ```
 
 Também é possível adicionar novos elementos ao final do vetor, utilizando
 `push_back(...)`:
 
 ```cpp
-{{#include changing.cpp:18:29}}
+{{#include changing.cpp:16:29}}
 ```
 
 Da mesma forma, é possível remover o último elemento do vetor, através do
