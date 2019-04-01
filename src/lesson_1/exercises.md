@@ -20,8 +20,8 @@ Exercícios
     * Dado um `x`, até o último elemento da sequência que seja menor ou igual
       a `x`
 
-    > **Dica**: Considere que o `n` do primeiro elemento é 0, e que os
-     dois primeiros elementos (`n` 0 e 1) tem valor 1.
+    > **Dica**: Considere que o `n` do primeiro elemento é 0, e que fib(0) = 0
+      e fib(1) = 1.
 
     Utilize o seguinte `main`:
 
