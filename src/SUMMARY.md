@@ -25,4 +25,15 @@
     - [Compilação em múltiplos arquivos](./lesson_3/multiple-files.md)
     - [Exercícios](./lesson_3/exercises.md)
 
+- [Aula 4 - CMake](./lesson_4/intro.md)
+    - [Organização de um projeto simples com CMake](./lesson_4/basic-cmake.md)
+    - [Exercícios](./lesson_4/exercises.md)
+
+- [Aula 5 - Streams](./lesson_5/intro.md)
+    - [cout e cin](./lesson_5/cout-cin.md)
+    - [fstreams](./lesson_5/fstreams.md)
+    - [stringstreams](./lesson_5/stringstreams.md)
+    - [Evitando problemas](./lesson_5/issues.md)
+    - [Exercícios](./lesson_5/exercises.md)
+
 [Licença do código](./mit_license.md)
