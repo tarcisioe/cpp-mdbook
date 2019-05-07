@@ -78,7 +78,7 @@ Utilize o seguinte `main.cpp`
 
 int _main(std::ostream& in)
 {
-    auto students = read_students();
+    auto students = school::read_students(in);
 
     for (auto s: school::approved(students)) {
         std::cout << s.name()
