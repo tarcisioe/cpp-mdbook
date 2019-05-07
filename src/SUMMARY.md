@@ -36,4 +36,11 @@
     - [Evitando problemas](./lesson_5/issues.md)
     - [Exercícios](./lesson_5/exercises.md)
 
+- [Aula 6 - Herança e Polimorfismo](./lesson_6/intro.md)
+    - [O mecanismo de herança e métodos virtuais](./lesson_6/inheritance.md)
+    - [Gerência manual de memória](./lesson_6/memory_management.md)
+    - [O `std::unique_ptr`](./lesson_6/unique_ptr.md)
+    - [Destrutores](./lesson_6/destructors.md)
+    - [Exercícios](./lesson_6/exercises.md)
+
 [Licença do código](./mit_license.md)

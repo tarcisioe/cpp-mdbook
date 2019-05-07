@@ -1,0 +1,1 @@
+# Gerência manual de memória
