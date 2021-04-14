@@ -18,4 +18,11 @@
     - [Exercícios](./lesson_2/exercises.md)
     - [Apêndice 1: Inicialização de `vector` à moda antiga](./lesson_2/appendix1-old_style.md)
 
+- [Aula 3 - Classes e Múltiplos Arquivos](./lesson_3/intro.md)
+    - [Classes - Visão geral](./lesson_3/classes-overview.md)
+    - [Classes - Atributos e construtores](./lesson_3/classes-attributes.md)
+    - [Classes - Métodos](./lesson_3/classes-methods.md)
+    - [Compilação em múltiplos arquivos](./lesson_3/multiple-files.md)
+    - [Exercícios](./lesson_3/exercises.md)
+
 [Licença do código](./mit_license.md)
