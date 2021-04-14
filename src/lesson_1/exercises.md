@@ -59,7 +59,7 @@ Exercícios
     {
         using namespace std::string_literals;
 
-        std::cout << "arara is "s << check_palindrome("arara"s);
-        std::cout << "banana is "s << check_palindrome("banana"s);
+        std::cout << "arara is "s << check_palindrome("arara"s) << '\n';
+        std::cout << "banana is "s << check_palindrome("banana"s) << '\n';
     }
     ```
