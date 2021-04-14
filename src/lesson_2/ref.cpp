@@ -16,7 +16,7 @@ void zero_all(std::vector<int>& ints)
 
 int main()
 {
-    auto v = std::vector{1, 2, 3, 4};
+    auto v = std::vector<int>{1, 2, 3, 4};
 
     vectors::zero_all(v);
 
