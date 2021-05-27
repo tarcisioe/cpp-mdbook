@@ -43,4 +43,8 @@
     - [Destrutores](./lesson_6/destructors.md)
     - [Exercícios](./lesson_6/exercises.md)
 
+- [Aula 7 - Templates](./lesson_7/intro.md)
+    - [Exercícios](./lesson_7/exercises.md)
+
+
 [Licença do código](./mit_license.md)
